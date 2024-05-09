@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samyukthasathishkumar
-- 👀 I’m interested in Data science,Mobile app development,Web development
+- 👀 I’m interested in Data science,Mobile app development and Web development
 - 🌱 I’m currently learning Artificial Intelligence (AI) and Machine Learning (ML)
 - 💞️ I’m looking to collaborate on Slack
 
